@@ -1,0 +1,17 @@
+@font-face{
+    font-family:liberator;
+    src: url('fonts/liberator-medium.otf')
+}
+
+
+
+body{
+    background-color: #00c6af;
+    color:black;
+    
+}
+
+h1{
+    font-family: liberator, sans-serif;
+}
+

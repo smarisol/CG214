@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    font-family: 'amatic sc', cursive; color: black; font-size: 50px; color: beige
+    
+}
+
+
+div{
+    width: 400px;
+    background-color: cadetblue;
+    min-width: 400px;
+    max-width: 600px;
+}
+p{
+    width: 75%;
+  
+    border-style: solid;
+    		border-radius: 10px;
+    		background-color: white;
+    		padding: 5px;
+}
+

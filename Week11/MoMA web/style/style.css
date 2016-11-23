@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic');
+
+
+body{
+    
+    font-family: 'Carrois Gothic', sans-serif; 
+}
+
+h1{
+    padding: 15px;
+        margin: auto             
+}
+
+
+#mainmenu{
+    margin: auto;
+}
+
+ul{
+    list-style: none; font-size: 20px;
+    
+}
+
+li{
+    float: left; padding: 15px; color: gray;
+}
+
+img{
+    position: inherit;.
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    color: gray;
+}
+
+p{
+    color: darkgray
+}
